@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# About Me:
+ - I'm studying programming at BYUI
+ - My dream is to develop games at Nintendo or one of its second party studios
+ - I'm currently developing a game of my own using the Unity Engine
+ - I can get a little too competetive sometimes.
+
+# Reach me with my email ryanhpassey@gmail.com
+
 <!--
 **ryanhpassey/RyanHPassey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
