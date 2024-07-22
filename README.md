@@ -2,9 +2,9 @@
 
 # About Me:
  - I'm studying programming at BYUI
- - My dream is to develop games at Nintendo or one of its second party studios
+ - My goal is to develop games at Nintendo or one of its second party studios
  - I'm currently developing a game of my own using the Unity Engine
- - I can get a little too competetive sometimes.
+ - I can probably beat you at Smash Bros, and that is a challenge
 
 # Reach me with my email ryanhpassey@gmail.com
 
